@@ -85,6 +85,6 @@
 [submodule "modules/debug"]
 	path = modules/debug
 	url = git@github.com:coopengo/trytond-debug.git
-[submodule "modules/node-authorizations"]
-	path = modules/node-authorizations
+[submodule "modules/note_authorizations"]
+	path = modules/note_authorizations
 	url = git@github.com:coopengo/trytond-note-authorizations.git
