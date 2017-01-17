@@ -4,8 +4,8 @@
 	branch = master
 [submodule "modules/account_dunning"]
 	path = modules/account_dunning
-	url = git@github.com:coopengo/account_dunning.git
-	branch = master
+	url = https://jm_bfm@bitbucket.org/jm_bfm/account_dunning.git
+	branch = production
 [submodule "modules/account_dunning_letter"]
 	path = modules/account_dunning_letter
 	url = git@github.com:coopengo/account_dunning_letter.git
