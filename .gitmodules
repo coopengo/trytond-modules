@@ -44,8 +44,8 @@
 	branch = master
 [submodule "modules/commission"]
 	path = modules/commission
-	url = git@github.com:coopengo/commission.git
-	branch = master
+	url = https://jm_bfm@bitbucket.org/jm_bfm/commission.git
+	branch = production
 [submodule "modules/commission_waiting"]
 	path = modules/commission_waiting
 	url = git@github.com:coopengo/commission_waiting.git
